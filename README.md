@@ -67,11 +67,13 @@ For future projects, I plan to focus on learning React to improve my front-end d
 - [Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell's CSS tutorials helped me a lot during the development of this project.
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks has been an invaluable resource for learning CSS Grid and Flexbox.
 
-## Code by :- Ravi Raj
+## Code by 
+   Ravi Raj
 - Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/) <br>
 - Instagram -[@devs_ayu_geek](https://www.instagram.com/devs_ayu_geek?igsh=MWc0aXpkZHRmYnMxZw==)
 
-## challenge by :- Code Alpha
+## challenge by
+   Code Alpha
 - Linkdin -[@CodeAlpha](https://www.linkedin.com/company/codealpha/) <br>
 - Visit- [@CodeAlpha](https://www.codealpha.tech/)
 
