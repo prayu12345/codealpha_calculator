@@ -1,6 +1,6 @@
 # Calculator App 
 
-This is a solution to the Calculator app challenge by Code Alpha. Code Alpha challenges help you improve your coding skills by building realistic projects.
+This is a solution to the Calculator app challenge by Code Alpha. Code Alpha challenges help me improve my coding skills by building realistic projects.
 
 ## Table of contents
 
