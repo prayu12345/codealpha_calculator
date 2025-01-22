@@ -30,7 +30,7 @@ Users should be able to:
 
 ![mobile - default theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133612.png)
 ![tablet - light theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133425.png)
-![desktop - vivid theme](https://user-images.githubusercontent.com/63062052/119277990-43d87c80-bbe8-11eb-87be-848899a2f088.png)
+![desktop - vivid theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133811.png)
 
 
 ### Links
@@ -66,7 +66,11 @@ For future projects, I plan to focus on learning React to improve my front-end d
 - [Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell's CSS tutorials helped me a lot during the development of this project.
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks has been an invaluable resource for learning CSS Grid and Flexbox.
 
-## Author
+## Code By :- Ravi Raj
+-Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/)
+-Instagram -[@devs_ayu_geek](https://www.instagram.com/devs_ayu_geek?igsh=MWc0aXpkZHRmYnMxZw==)
 
-- Frontend Mentor - [@ravi-raj](https://www.frontendmentor.io/profile/ravi-raj)
-- Twitter - [@RaviRaj_Dev](https://www.twitter.com/RaviRaj_Dev)
+## challenge by :- Code Alpha
+- Linkdin -[@CodeAlpha](https://www.linkedin.com/company/codealpha/) 
+ -Visit- [@CodeAlpha](https://www.codealpha.tech/)
+
