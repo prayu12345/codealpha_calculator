@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![mobile - default theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133612.png)
-![tablet - light theme](https://user-images.githubusercontent.com/63062052/119277970-286d7180-bbe8-11eb-8aca-58af3a9ada97.png)
+![tablet - light theme](https://raw.githubusercontent.com/prayu12345/codealpha_calculator/2f0eed60b96093b5502d31bf7181a4abfd46ff7f/design/Screenshot%202025-01-22%20133425.png)
 ![desktop - vivid theme](https://user-images.githubusercontent.com/63062052/119277990-43d87c80-bbe8-11eb-87be-848899a2f088.png)
 
 
