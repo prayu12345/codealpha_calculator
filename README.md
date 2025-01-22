@@ -67,10 +67,10 @@ For future projects, I plan to focus on learning React to improve my front-end d
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks has been an invaluable resource for learning CSS Grid and Flexbox.
 
 ## Code By :- Ravi Raj
--Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/) <br>
--Instagram -[@devs_ayu_geek](https://www.instagram.com/devs_ayu_geek?igsh=MWc0aXpkZHRmYnMxZw==)
+- Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/) <br>
+- Instagram -[@devs_ayu_geek](https://www.instagram.com/devs_ayu_geek?igsh=MWc0aXpkZHRmYnMxZw==)
 
 ## challenge by :- Code Alpha
 - Linkdin -[@CodeAlpha](https://www.linkedin.com/company/codealpha/) <br>
- -Visit- [@CodeAlpha](https://www.codealpha.tech/)
+- Visit- [@CodeAlpha](https://www.codealpha.tech/)
 
