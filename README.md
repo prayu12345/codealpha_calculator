@@ -13,7 +13,8 @@ This is a solution to the Calculator app challenge by Code Alpha. Code Alpha cha
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Code by](#code-by)
+- [challenge by](challenge-by)
 
 ## Overview
 
@@ -66,7 +67,7 @@ For future projects, I plan to focus on learning React to improve my front-end d
 - [Kevin Powell](https://www.kevinpowell.co/) - Kevin Powell's CSS tutorials helped me a lot during the development of this project.
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - CSS Tricks has been an invaluable resource for learning CSS Grid and Flexbox.
 
-## Code By :- Ravi Raj
+## Code by :- Ravi Raj
 - Linkdin -[@Ravi Raj](https://www.linkedin.com/in/ravi-raj2505/) <br>
 - Instagram -[@devs_ayu_geek](https://www.instagram.com/devs_ayu_geek?igsh=MWc0aXpkZHRmYnMxZw==)
 
