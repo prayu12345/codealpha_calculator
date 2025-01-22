@@ -14,7 +14,7 @@ This is a solution to the Calculator app challenge by Code Alpha. Code Alpha cha
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Code by](#code-by)
-- [challenge by](challenge-by)
+- [challenge by](#challenge-by)
 
 ## Overview
 
